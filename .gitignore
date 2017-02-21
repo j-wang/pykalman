@@ -6,3 +6,5 @@ build/
 dist/
 doc/build/
 pykalman.egg-info/
+
+private/
